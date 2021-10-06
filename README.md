@@ -1,4 +1,5 @@
-> Disable browser extensions when on localhost, as it may cause error.
+> 1. npm install - for node_modules
+> 2. Disable browser extensions when on localhost, as it may cause error.
 
 # Getting Started with Create React App
 
